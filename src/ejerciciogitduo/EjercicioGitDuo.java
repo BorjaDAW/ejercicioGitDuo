@@ -16,6 +16,7 @@ public class EjercicioGitDuo {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        System.out.println("Esos 40 pepos!!!");
     }
     
 }
