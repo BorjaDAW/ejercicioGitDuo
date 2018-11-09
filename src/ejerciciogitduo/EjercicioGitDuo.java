@@ -23,6 +23,10 @@ public class EjercicioGitDuo {
 
         System.out.println("TOMA ERROR2!");
 
+
+
+        System.out.println("borja");
+
     }
     
 }
