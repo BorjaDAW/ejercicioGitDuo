@@ -18,6 +18,7 @@ public class EjercicioGitDuo {
         System.out.println("Hola mundo");
         System.out.println("Esos 40 pepos!!!");
         System.out.println("TOMA ERROR!");
+        System.out.println("TOMA ERROR2!");
     }
     
 }
