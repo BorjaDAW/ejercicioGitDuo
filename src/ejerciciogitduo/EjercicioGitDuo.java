@@ -29,7 +29,7 @@ public class EjercicioGitDuo {
         System.out.println("borja");
 
         System.out.println("borja");
-        System.out.println("Nueva linea");
+        System.out.println("Nueva");
     }
     
 }
